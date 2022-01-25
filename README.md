@@ -1,2 +1,1 @@
-experiment with amend
-# hexlet-js
+Мой первый проект на Хекслете
