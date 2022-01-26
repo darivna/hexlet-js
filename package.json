@@ -1,0 +1,23 @@
+{
+  "name": "hexlet",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "hexlet-js\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D task for hexlet-js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darivna/hexlet-js.git"
+  },
+  "author": "Daria Sandyrkina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darivna/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/darivna/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
